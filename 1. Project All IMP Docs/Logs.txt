@@ -1,0 +1,13 @@
+
+
+Open Terminal or Command Prompt: Navigate to your project directory.
+cd "c:\......\Book_Recommendation_System"
+
+Activate the Virtual Environment: Each time before running Python script
+c:\......\Book_Recommendation_System\.venv\Scripts\activate
+
+Then
+cd "c:\......\Book_Recommendation_System\book-recommender-system"
+
+To run
+python "c:\......\Book_Recommendation_System\book-recommender-system\app.py"  
